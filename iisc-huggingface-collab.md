@@ -4,24 +4,24 @@ thumbnail: /assets/iisc-huggingface-collab/thumbnail.png
 authors:
 - user: prasantg
   guest: true
-  org: iisc_org_on_huggingface
+  org: ARTPARK
 - user: nihar-artpark
   guest: true
-  org: iisc_org_on_huggingfac
+  org: ARTPARK
 - user: Visruth-sanka
   guest: true
-  org: iisc_org_on_huggingfac
+  org: ARTPARK
 - user: SujithPulikodan
   guest: true
-  org: iisc_org_on_huggingfac
+  org: ARTPARK
 ---
 # HuggingFace, IISc partner to supercharge model building on India's diverse languages
 
-The Indian Institute of Science [IISc](https://iisc.ac.in/) and [ARTPARK](https://artpark.in/)  partner with HuggingFace to enable developers across the globe to access [Vaani](https://vaani.iisc.ac.in/), India's most diverse open-source, multi-modal, multi-lingual dataset. Both organisations share a commitment to building inclusive, accessible, and state-of-the-art AI technologies that honor linguistic and cultural diversity.
+The Indian Institute of Science [IISc](https://iisc.ac.in/) and [ARTPARK](https://artpark.in/)  partner with Hugging Face to enable developers across the globe to access [Vaani](https://vaani.iisc.ac.in/), India's most diverse open-source, multi-modal, multi-lingual dataset. Both organisations share a commitment to building inclusive, accessible, and state-of-the-art AI technologies that honor linguistic and cultural diversity.
 
 ## Partnership
 
-The partnership between HuggingFace and IISc/ARTPARK aims to increase the accessibility and improve usability of the Vaani dataset, encouraging the development of AI systems that better understand India's diverse languages and cater to the digital needs of its people.
+The partnership between Hugging Face and IISc/ARTPARK aims to increase the accessibility and improve usability of the Vaani dataset, encouraging the development of AI systems that better understand India's diverse languages and cater to the digital needs of its people.
 
 ## About Vaani Dataset
 
@@ -31,7 +31,7 @@ Vaani targets the collection of over 150,000 hours of speech and 15,000 hours of
 
 The dataset is being built in phases, with Phase 1 covering 80 districts, which has already been open-sourced. Phase 2 is currently underway, expanding the dataset to 100 more districts, further strengthening Vaani's reach and impact across India's diverse linguistic landscape.
 
-![Key Highlights](/assets/HFxIISc-collab/Vaani_Dataset_summary.png)
+![Key Highlights](https://huggingface.co/datasets/huggingface/documentation-images/resolve/main/blog/iisc-huggingface-collab/Vaani_Dataset_summary.png)
 *Key Highlights of the Vaani data set, open sourced so far: (as of 15-02-2025)*
 ### District wise language distribution
 
@@ -65,7 +65,7 @@ These AI models can power a wide range of Conversational AI applications. From e
 
 IISc/ARTPARK and Google have extended the partnership to Phase 2 (additional 100 districts). With this, Vaani covers all states in India! We are excited to bring this dataset to all of you.  
 
-![Map of districts where data has been collected](assets/HFxIISc-collab/district_map.png)
+![Map of districts where data has been collected](https://huggingface.co/datasets/huggingface/documentation-images/resolve/main/blog/iisc-huggingface-collab/district_map.png)
 *The map highlights the districts across India where data has been collected as of Feb 5,2025*
 
 ## How You Can Contribute
